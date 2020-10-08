@@ -1,9 +1,9 @@
 import turtle 
 
 BCOLOR= 'black'
-BSHADOW= ''
+
 GCOLOR= 'skyblue'
-GSHADOW=''
+
 
 s=turtle.getscreen()
 t=turtle.Turtle()
